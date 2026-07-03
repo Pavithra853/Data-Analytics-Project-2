@@ -44,4 +44,59 @@ Documentation & Deliverables
 •	Explain visualizations and insights
 •	Maintain Git commits and version history
 •	Prepare dataset for predictive analytics
+Week 3 & Week 4 Travel Dataset Presentation
+Week 3 & Week 4
+Travel, Tourism & Hospitality
+Customer Retention and Dynamic Pricing Analysis
+(Travel Dataset)
+Week 3 Objectives
+Build a baseline predictive model.
+Classify travel records into High Cost and Low Cost.
+Evaluate model performance using Scikit-Learn.
+Dataset & Features
+Features: Destination, Age, Accommodation Type, Transportation Type, Total Cost, Cost Per Day, Travel Month, Age Group.
+Target: High Cost / Low Cost
+Data Preparation
+Label Encoding
+Train-Test Split (80:20)
+Feature Selection
+Model Development
+Algorithm: Logistic Regression
+Model Training
+Prediction on Test Data
+Performance Evaluation
+Accuracy
+Precision
+Recall
+F1-Score
+ROC-AUC Curve
+Confusion Matrix
+Week 3 Conclusion
+Baseline model successfully classified travel cost categories.
+Supports pricing analysis and business decision-making.
+Week 4 Objectives
+Develop interactive Power BI Dashboard
+Present business insights
+Finalize documentation
+Dashboard Components
+KPI Cards
+Destination Analysis
+Monthly Travel Trend
+Cost Analysis
+Filters & Slicers
+Business Insights
+Popular destinations
+High-cost travel patterns
+Accommodation and transportation cost comparison
+Monthly travel trends
+Recommendations
+Dynamic pricing strategy
+Seasonal offers
+Customer segmentation
+Optimize travel packages
+Documentation & GitHub
+Jupyter Notebooks
+Power BI Dashboard
+README.md
+Project Structure
 
