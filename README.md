@@ -45,7 +45,6 @@ Documentation & Deliverables
 •	Maintain Git commits and version history
 •	Prepare dataset for predictive analytics
 Week 3 & Week 4 Travel Dataset Presentation
-Week 3 & Week 4
 Travel, Tourism & Hospitality
 Customer Retention and Dynamic Pricing Analysis
 (Travel Dataset)
