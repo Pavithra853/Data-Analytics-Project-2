@@ -96,7 +96,8 @@ Optimize travel packages
 Documentation & GitHub
 Jupyter Notebooks
 Power BI Dashboard
-Final Dashboard Screenshot.png
+<img width="1427" height="957" alt="Final Dashboard Screenshot" src="https://github.com/user-attachments/assets/fe2cd8b9-6261-4ce1-ace6-559783c6d76a" />
+
 README.md
 Project Structure
 
