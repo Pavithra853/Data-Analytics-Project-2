@@ -96,6 +96,7 @@ Optimize travel packages
 Documentation & GitHub
 Jupyter Notebooks
 Power BI Dashboard
+Final Dashboard Screenshot.png
 README.md
 Project Structure
 
