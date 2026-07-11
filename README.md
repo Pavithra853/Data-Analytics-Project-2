@@ -79,6 +79,7 @@ Present business insights
 Finalize documentation
 Dashboard Components
 KPI Cards
+<img width="1040" height="115" alt="KPI Screenshot" src="https://github.com/user-attachments/assets/79f0875e-b28b-48b8-bde2-9720e8d82163" />
 Destination Analysis
 Monthly Travel Trend
 Cost Analysis
@@ -97,7 +98,6 @@ Documentation & GitHub
 Jupyter Notebooks
 Power BI Dashboard
 <img width="1427" height="957" alt="Final Dashboard Screenshot" src="https://github.com/user-attachments/assets/fe2cd8b9-6261-4ce1-ace6-559783c6d76a" />
-
 README.md
 Project Structure
 
