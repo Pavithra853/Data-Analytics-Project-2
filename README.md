@@ -15,5 +15,13 @@ Week 4: Dashboard Development and Documentation
 
 The final week focused on transforming analytical results into an interactive Power BI Dashboard for business users. The dashboard included KPI Cards, Line Chart, Clustered Column Chart, Donut Chart, Clustered Bar Chart, 100% Stacked Bar Chart, Map Visualization, and Interactive Slicers to present travel trends, destination analysis, traveler demographics, and cost comparisons. Business insights and recommendations were developed to support travel planning and pricing decisions. The GitHub repository was finalized with complete project documentation, Jupyter Notebooks, dashboard screenshots, project structure, and a comprehensive README.md, ensuring the project was well-organized and reproducible.
 
+ Future Enhancements
+
+- Integrate real-time travel booking data.
+- Add forecasting for travel demand using machine learning.
+- Publish the dashboard to Power BI Service.
+- Implement automated data refresh.
+- Create mobile-friendly dashboard layouts.
+
 Dashboard Screenshot 
 <img width="1427" height="957" alt="Final Dashboard Screenshot" src="https://github.com/user-attachments/assets/640f82ac-0e4c-433e-a0a6-276143fab8f3" />
